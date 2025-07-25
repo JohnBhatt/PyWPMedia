@@ -1,0 +1,11 @@
+# Core Requirements
+tkinter>=0.0.0  # Usually comes with Python
+Pillow>=9.0.0   # For better image handling
+
+# Optional (for enhanced functionality)
+python-magic>=0.4.24  # For more accurate file type detection
+send2trash>=1.8.0     # Safer file deletion (moves to trash instead of permanent delete)
+
+# Development Tools
+black>=22.0.0         # Code formatting
+pylint>=2.12.0        # Code quality analysis
